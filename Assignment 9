@@ -1,0 +1,1 @@
+When you wrap an <img> tag inside an <a> tag, the image becomes a clickable link. This happens because the <a> tag, or anchor tag, is used to create hyperlinks in HTML. Any content placed inside the <a> tag inherits its clickable behavior, including text, images, or other elements.
