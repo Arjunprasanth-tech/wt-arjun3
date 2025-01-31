@@ -1,0 +1,2 @@
+The placement of the <img> tag affects the flow and layout of the page based on how HTML elements are structured and styled.
+if we move the image before the paragraph.the image will appear above the paragraph 
