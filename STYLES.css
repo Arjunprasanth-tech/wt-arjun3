@@ -1,0 +1,26 @@
+
+h1{
+	border:5px solid red;
+}
+h2{
+	background-color: black;
+	color: white;
+}
+p{
+	color:red;
+}
+.section1 p{
+	font-style:italic;
+}
+.section2 p{
+	font-style:italic;
+}
+.section3 p{
+	font-style:italic;
+}
+div{
+	font-size:30px;
+}
+.footer{
+	border:5px solid red;
+}
